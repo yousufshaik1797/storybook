@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "storybook": "apps/storybook",
+    "storybook-e2e": "apps/storybook-e2e"
+  }
+}
